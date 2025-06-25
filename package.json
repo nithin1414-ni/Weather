@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.8",
+    "input.css": "^0.0.4",
+    "style.css": "^1.0.3"
+  }
+}
